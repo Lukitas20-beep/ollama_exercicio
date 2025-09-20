@@ -13,8 +13,9 @@ Aplicação simples em **Node.js** que se conecta à API do **Ollama** e envia p
 
 ## 📂 Estrutura do projeto
 ollama-cli/
-├─ index.js
-├─ package.json
-├─ package-lock.json
-└─ README.md
+─ index.js
+─ package.json
+─ package-lock.json
+─ README.md
+
 📂 node_modules
