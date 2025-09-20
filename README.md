@@ -18,4 +18,9 @@ ollama-cli/
 ─ package-lock.json
 ─ README.md
 
+## Equipe
+Lucas Ferreira
+Júlia Verissimo
+
 📂 node_modules
+
