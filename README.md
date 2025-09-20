@@ -19,8 +19,9 @@ ollama-cli/
 ─ README.md
 
 ## Equipe
-Lucas Ferreira
+Lucas Ferreira /
 Júlia Verissimo
 
 📂 node_modules
+
 
