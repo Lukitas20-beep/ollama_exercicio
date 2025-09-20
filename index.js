@@ -9,6 +9,8 @@ async function askAndSend() {
   console.log("Conectando ao Ollama ->", OLLAMA_URL);
   const prompt = readlineSync.question("Digite seu prompt: ");
 
+  console.log("\nIA está digitando... ⌛\n");
+
   const body = {
     model: MODEL,
     prompt: prompt,
@@ -42,5 +44,6 @@ async function askAndSend() {
     console.error("Erro ao chamar a API:", err);
   }
 }
+
 
 askAndSend();
