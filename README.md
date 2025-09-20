@@ -24,4 +24,11 @@ Júlia Verissimo
 
 📂 node_modules
 
+## Uso
+Instale as dependências
+npm start no terminal
+Digite o prompt
+Espere a resposta
+
+
 
